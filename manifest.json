@@ -1,0 +1,19 @@
+{
+  "name": "Lista de Compras",
+  "short_name": "Compras",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "pwa/supermercado.png",
+      "sizes": "190x190",
+      "type": "image/png"
+    },
+    {
+      "src": "pwa/supermercado.png",
+      "sizes": "510x510",
+      "type": "image/png"
+    }
+  ]
+}
